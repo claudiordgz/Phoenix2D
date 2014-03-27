@@ -1,0 +1,123 @@
+Normal.o: ../../communications/Normal.cpp \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/cmath \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/c++config.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/os_defines.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/cpu_defines.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/cpp_type_traits.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/ext/type_traits.h \
+ /usr/include/math.h /usr/include/sys/reent.h /usr/include/_ansi.h \
+ /usr/include/newlib.h /usr/include/sys/config.h \
+ /usr/include/machine/ieeefp.h /usr/include/sys/features.h \
+ /usr/include/cygwin/config.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/stddef.h \
+ /usr/include/sys/_types.h /usr/include/machine/_types.h \
+ /usr/include/machine/_default_types.h /usr/include/sys/lock.h \
+ /usr/include/_ansi.h ../../communications/Normal.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/list \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_algobase.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/functexcept.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/exception_defines.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/ext/numeric_traits.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_pair.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/move.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/concept_check.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_iterator_base_types.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_iterator_base_funcs.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/debug/debug.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_iterator.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/allocator.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/c++allocator.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/ext/new_allocator.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/new \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/exception \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/atomic_lockfree_defines.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/memoryfwd.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/range_access.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_list.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/list.tcc
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/cmath:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/c++config.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/os_defines.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/cpu_defines.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/cpp_type_traits.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/ext/type_traits.h:
+
+/usr/include/math.h:
+
+/usr/include/sys/reent.h:
+
+/usr/include/_ansi.h:
+
+/usr/include/newlib.h:
+
+/usr/include/sys/config.h:
+
+/usr/include/machine/ieeefp.h:
+
+/usr/include/sys/features.h:
+
+/usr/include/cygwin/config.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/stddef.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/machine/_default_types.h:
+
+/usr/include/sys/lock.h:
+
+/usr/include/_ansi.h:
+
+../../communications/Normal.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/list:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_algobase.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/functexcept.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/exception_defines.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/ext/numeric_traits.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_pair.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/move.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/concept_check.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_iterator_base_types.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_iterator_base_funcs.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/debug/debug.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_iterator.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/allocator.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/x86_64-pc-cygwin/bits/c++allocator.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/ext/new_allocator.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/new:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/exception:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/atomic_lockfree_defines.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/memoryfwd.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/range_access.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/stl_list.h:
+
+/usr/lib/gcc/x86_64-pc-cygwin/4.8.2/include/c++/bits/list.tcc:
