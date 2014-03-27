@@ -6,6 +6,9 @@ html/
 latex/
 RemoteSystemsTempFiles/
 .metadata/
+.settings/
+build/*
+!build/.gitkeep
 
 # Compiled source #
 ###################
